@@ -1,0 +1,2 @@
+java is a strongly typed language
+It is used for android app development
